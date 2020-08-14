@@ -1,0 +1,40 @@
+html {
+    height: 600px;
+    width: 500px;
+    text-align: center;
+    background: color rgba(222, 224, 228, 0);
+}
+
+h1 {
+    color: rgb(233,74,55);
+    text-align: center;
+}
+
+iframe {
+    height: 520px;
+    width: 490px;
+    text-align: center;
+    z-index: 9;
+    
+}
+
+
+#CopyURL {
+  background-color: rgb(19,41,75);
+  border: none;
+  color: rgb(231,74,37);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 200px;
+  font-weight: bold;
+}
+#logo {
+    width: 200px;
+    height: 50px;
+    position: relative;
+    bottom: -20px;
+}

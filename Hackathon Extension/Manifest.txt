@@ -1,0 +1,6 @@
+ {
+    "name": "Student Organizer",
+    "version": "0.1",
+    "description": "Organizer for Student files",
+    "manifest_version": 2
+  }
